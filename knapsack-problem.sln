@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knapsack-problem", "knapsack-problem\knapsack-problem.csproj", "{D4FF0F13-1BB5-4DF2-A453-2EEEF4D27780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FF0F13-1BB5-4DF2-A453-2EEEF4D27780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FF0F13-1BB5-4DF2-A453-2EEEF4D27780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FF0F13-1BB5-4DF2-A453-2EEEF4D27780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FF0F13-1BB5-4DF2-A453-2EEEF4D27780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
